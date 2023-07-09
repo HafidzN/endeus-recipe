@@ -1,5 +1,7 @@
 # kaskus-2
 
+deployed url: [Here](https://candid-biscochitos-5b5ec8.netlify.app).
+
 ## Project setup
 ```
 npm install
